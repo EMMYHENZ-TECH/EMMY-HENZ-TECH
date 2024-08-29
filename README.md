@@ -1,4 +1,4 @@
-# EMMY HENZ BOT-X (V1)
+# EMMY HENZ BOT-X (V2)
 <p align="center">
   <a href="https://chat.whatsapp.com/KEG60dJcOVVH4kbGkwUkKE">
     <img alt="EMMY HENZ docs" height="300" src="./lib/assets/pk.jpg"  old_src= "">
