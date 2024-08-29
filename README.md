@@ -1,6 +1,6 @@
 # SUHAIL-X (V2)
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y">
+  <a href="https://chat.whatsapp.com/KEG60dJcOVVH4kbGkwUkKE">
     <img alt="Suhail docs" height="300" src="./lib/assets/pk.jpg"  old_src= "https://telegra.ph/file/9dcef2b49909742db8dbd.jpg">
   </a>
 </p>
