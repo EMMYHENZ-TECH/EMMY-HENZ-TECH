@@ -7,7 +7,8 @@
   
    
 <p align="center">
-
+<img scr="https://telegra.ph/file/037012eab264dec860418.jpg"
+  
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/KEG60dJcOVVH4kbGkwUkKE" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
