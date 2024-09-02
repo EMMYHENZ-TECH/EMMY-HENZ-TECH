@@ -39,6 +39,7 @@
 9.  ***Deploy EMMY HENZ BOT on [`CodeSpace`](https://suhail-web.vercel.app/deploy?platform=codespace)***
 11. ***Deploy EMMY HENZ BOT on [`Render`](https://suhail-web.vercel.app/deploy?platform=render)***
 12. ***Deploy EMMY HENZ BOT on [`Railway`](https://suhail-web.vercel.app/deploy?platform=railway)***
+13. ***Deploy EMMY HENZ BOT on [`PANEL`](https://bot-hosting.net/?aff=1271748168954151015)
 ##
 
 
