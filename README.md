@@ -39,7 +39,7 @@
 9.  ***Deploy EMMY HENZ BOT on [`CodeSpace`](https://suhail-web.vercel.app/deploy?platform=codespace)***
 11. ***Deploy EMMY HENZ BOT on [`Render`](https://suhail-web.vercel.app/deploy?platform=render)***
 12. ***Deploy EMMY HENZ BOT on [`Railway`](https://suhail-web.vercel.app/deploy?platform=railway)***
-13. ***Deploy EMMY HENZ BOT on [`PANEL`](https://bot-hosting.net/?aff=1271748168954151015)
+13. ***Deploy EMMY HENZ BOT on [`PANEL`](https://bot-hosting.net/?aff=1271748168954151015)***
 ##
 
 
@@ -47,7 +47,7 @@
 ---
 
 - Star ⭐ repo if you like this bot.
+# CHANNEL LINK>>> https://whatsapp.com/channel/0029VamXpoF7oQhZY8evv81C
 
-
-
+# GROUP LINK>>> https://chat.whatsapp.com/KEG60dJcOVVH4kbGkwUkKE 
 
