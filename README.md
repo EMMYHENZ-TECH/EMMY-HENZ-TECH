@@ -28,18 +28,13 @@
  
 ## Deployment Methods
 ---
-1. ***Get [`SESSION ID`](https://baraka-pairing-code1-1-toqn.onrender.com)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://emmy-henz-session-id-generator.onrender.com)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/EMMY-HENZ-V2-BOT/EMMY-HENZ-TECH)***
-   
-5.  ***Deploy EMMY HENZ BOT on [`HEROKU`](https://suhail-web.vercel.app//deploy?platform=heroku)***
-6.  ***Deploy EMMY HENZ BOT on [`Replit`](https://suhail-web.vercel.app/deploy?platform=replit)***  
-7.  ***Deploy EMMY HENZ BOT on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
-8.  ***Deploy EMMY HENZ BOT on [`Glitch`](https://suhail-web.vercel.app/deploy?platform=glitch)***
-9.  ***Deploy EMMY HENZ BOT on [`CodeSpace`](https://suhail-web.vercel.app/deploy?platform=codespace)***
-11. ***Deploy EMMY HENZ BOT on [`Render`](https://suhail-web.vercel.app/deploy?platform=render)***
-12. ***Deploy EMMY HENZ BOT on [`Railway`](https://suhail-web.vercel.app/deploy?platform=railway)***
-13. ***Deploy EMMY HENZ BOT on [`PANEL`](https://bot-hosting.net/?aff=1271748168954151015)***
+    ***  
+4.  ***Deploy EMMY HENZ BOT on [`Koyeb`](koyeb)***
+5. ***Deploy EMMY HENZ BOT on [`Render`](www.render.com)***
+6. ***Deploy EMMY HENZ BOT on [`PANEL`](https://bot-hosting.net/?aff=1271748168954151015)***
 ##
 
 
