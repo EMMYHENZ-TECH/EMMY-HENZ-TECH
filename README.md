@@ -33,7 +33,7 @@
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/EMMY-HENZ-V2-BOT/EMMY-HENZ-TECH)***
     ***  
 4.  ***Deploy EMMY HENZ BOT on [`Koyeb`](koyeb)***
-5. ***Deploy EMMY HENZ BOT on [`Render`](www.render.com)***
+5. ***Deploy EMMY HENZ BOT on [`Render`](https://suhail-web.vercel.app/deploy?platform=render)***
 6. ***Deploy EMMY HENZ BOT on [`PANEL`](https://bot-hosting.net/?aff=1271748168954151015)***
 ##
 
